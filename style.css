@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(70,129,63);
+  }
+  h1{
+    text-aenter;
+    color: rgb(25,46,211);
+    font-size: 50px;
+  }
+  #im1 {
+    width:100%;
+    border: 1lid #322733;
+  }
+  div{
+    background-color:rgb(56,177,90);
+  }
+  ul{
+    display:inline-block;
+    margin-right: 20%;
+    margin-left:5%;
+  }
+  #im2 {
+    width: 35%;
+    display:inline-block;
+  }
